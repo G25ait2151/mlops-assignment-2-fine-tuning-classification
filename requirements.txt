@@ -1,0 +1,4 @@
+transformers, datasets, wandb, huggingface_hub, scikit-learn, torch
+https://www.kaggle.com/code/g25ait2151/mlops-assignment-2-fine-tuning-classification
+https://huggingface.co/G25ait2151/distilbert-goodreads-genres
+https://wandb.ai/g25ait2151-prom-iit-rajasthan/mlops-assignment2?nw=nwuserg25ait2151
